@@ -11,3 +11,5 @@ Dockerfile: text document that contains all the commands a user could call on th
 docker_compose.yml: The compose for the Q4 Docker. I don't have a docker license so I haven't been able to validate that it works, but it should work.
 
 requirements.txt: Contains the libraries required in Q4.
+
+update_airlines.py: same script as Q3_API_Jeff so that the docker can work properly.

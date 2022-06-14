@@ -1,9 +1,0 @@
-version: "3.8"
-services:
-  update-airlines:
-    build: .
-    stdin_open: true
-    tty: true
-    volumes:
-      - .:/usr/src/app
-    entrypoint: ['python3', 'src/update_airlines.py']

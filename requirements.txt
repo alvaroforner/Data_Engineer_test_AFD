@@ -1,4 +1,0 @@
-
-pandas==1.2.4
-requests==2.7.0
-os==3.9
